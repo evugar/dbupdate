@@ -9,7 +9,7 @@
 
 #define db_host "localhost"
 #define db_username "vugar"
-#define db_password "fedexfedex"
+#define db_password "f*x[2]"
 #define db_database "ha"
 #define db_port 3306
 
